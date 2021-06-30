@@ -1,4 +1,4 @@
-package com.example.app;
+package co.kr.jesus4u.hanwool.blog;
 
 import android.content.Intent;
 import android.net.Uri;
